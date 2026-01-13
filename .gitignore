@@ -1,0 +1,99 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+.env.production.local
+.env.development.local
+.env.test.local
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+*.tsbuildinfo
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+.vscode-settings.json
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Runtime data
+.cache/
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Misc
+.turbo/
+*.bak
+.eslintcache
+.parcel-cache
+.cache
+.vuepress/dist
+.serverless/
+.fusebox/
+.dynamodb/
+.env.*.local
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Project specific
+uploads/
+temp/
+tmp/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# dotenv environment variables file
+.env
+
+# macOS files
+.DS_Store
+
+# Firebase
+.firebase/
+.firebaserc
+
+# Stripe
+.stripe/
+
+# Socket.io
+socket.io/

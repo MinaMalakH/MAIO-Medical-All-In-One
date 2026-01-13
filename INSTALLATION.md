@@ -97,7 +97,7 @@ NODE_ENV=development
 # ==================
 # Database Configuration
 # ==================
-MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/maio
+MONGODB_URI=Your-Mongo-Cluster
 # Or for local MongoDB:
 # MONGODB_URI=mongodb://localhost:27017/maio
 
